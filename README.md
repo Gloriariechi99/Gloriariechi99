@@ -9,6 +9,10 @@ Bsc Mathematics and Computer Science JKUAT
 
 Skills:  JS / HTML / CSS/PYTHON/PHP/C
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Gloriariechi99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Gloria Riechi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Gloria Riechi/)  
+
+
 - 🔭 I’m currently working on this page. 
 
 
