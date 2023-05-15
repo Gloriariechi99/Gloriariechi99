@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+I'm Gloria Riechi from Nairobi Kenya a Software Engineer and enthusiastic Data Scientist
+
 <!--
 **Gloriariechi99/Gloriariechi99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+https://github-readme-stats.vercel.app/api/?username=Gloriariechi99&count_private=true&theme=tokyonight&showicons=true)]()
+
 
 Here are some ideas to get you started:
 
