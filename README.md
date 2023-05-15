@@ -1,12 +1,31 @@
-### Hi there 👋
+### Hi there 👋, my name is Gloria Riechi
 
-I'm Gloria Riechi from Nairobi Kenya a Software Engineer and Data Scientist
+#### Software Engineer, Data Scientist
+
+![Software Engineer, Data Scientist]
+
+(https://media.licdn.com/dms/image/D4D03AQE8EZ_MIGfDVw/profile-displayphoto-shrink_200_200/0/1679453590183?e=1689811200&v=beta&t=WpN3M3C_r8HjhdX-qVM3kXlQukHW1pY46mk0cnSJiBU)
+
+Bsc Mathematics and Computer Science JKUAT
+
+
+Skills:  JS / HTML / CSS/PYTHON/PHP/C
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Gloriariechi99&count_private=true&theme=tokyonight&showicons=true)]()
 
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gloriariechi99&langs_count=5&theme=tokyonight)]()
+
+
+
 
 <!--
 **Gloriariechi99/Gloriariechi99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
