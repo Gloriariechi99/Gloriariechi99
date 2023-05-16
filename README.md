@@ -1,10 +1,4 @@
-### Hi there 👋, my name is Gloria Riechi
 
-#### Software Engineer, Data Scientist
-
-![Software Engineer, Data Scientist](https://media.licdn.com/dms/image/D4D03AQE8EZ_MIGfDVw/profile-displayphoto-shrink_200_200/0/1679453590183?e=1689811200&v=beta&t=WpN3M3C_r8HjhdX-qVM3kXlQukHW1pY46mk0cnSJiBU)
-
-Bsc Mathematics and Computer Science JKUAT
 
 
 Skills:  JS / HTML / CSS/PYTHON/PHP/C
@@ -12,8 +6,6 @@ Skills:  JS / HTML / CSS/PYTHON/PHP/C
 
 
 
-
-- 🔭 I’m currently working on this page. 
 
 
 
